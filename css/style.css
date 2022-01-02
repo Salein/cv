@@ -91,3 +91,8 @@ h5 {
   font-size: 2.5em;
   text-align: center;
 }
+
+.circle_hover:hover {
+  border-radius: 60%;
+  border: 1px solid #0ff;
+}
